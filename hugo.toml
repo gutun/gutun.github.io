@@ -104,7 +104,7 @@ enableEmoji = true
   #  日期格式
   dateFormat = "2006-01-02"
   # 网站图片，用于 Open Graph 和 Twitter Cards
-  images = ["/logo.png"]
+  images = []
   #  开启 PWA 支持
   enablePWA = true
   #  是否自动显示外链图标
@@ -127,7 +127,7 @@ enableEmoji = true
     # 是否隐藏网站图标资源链接
     noFavicon = false
     # 更现代的 SVG 网站图标，可替代旧的 .png 和 .ico 文件
-    svgFavicon = "/favicon.svg"
+    svgFavicon = ""
     # Safari 图标颜色
     iconColor = "#5bbad5"
     # Windows v8-10 磁贴颜色
@@ -179,7 +179,7 @@ enableEmoji = true
     #  页面头部导航栏标题配置
     [params.header.title]
       # LOGO 的 URL
-      logo = "/logo.png"
+      logo = ""
       # 标题名称
       name = ""
       # 你可以在名称（允许 HTML 格式）之前添加其他信息，例如图标
@@ -286,7 +286,7 @@ enableEmoji = true
       #  主页显示的网站标题（支持 HTML 格式）
       title = "GUTUN的心"
       # 主页显示的网站副标题
-      subtitle = "色相事一刹那，光阴里无尽藏"
+      subtitle = "不断失去"
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
@@ -694,11 +694,11 @@ enableEmoji = true
     #  页面 SEO 配置
     [params.page.seo]
       # 图片 URL
-      images = ["/favicon.ico"]
+      images = []
       # 出版者信息
       [params.page.seo.publisher]
         name = "GUTUN"
-        logoUrl = "/logo.png"
+        logoUrl = ""
 
   #  TypeIt 配置
   [params.typeit]
