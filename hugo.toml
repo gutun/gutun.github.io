@@ -284,7 +284,7 @@ enableEmoji = true
       #  头像菜单链接的 identifier
       avatarMenu = ""
       #  主页显示的网站标题（支持 HTML 格式）
-      title = "Leehow的小站"
+      title = "GUTUN的心"
       # 主页显示的网站副标题
       subtitle = "色相事一刹那，光阴里无尽藏"
       # 是否为副标题显示打字机动画
@@ -697,7 +697,7 @@ enableEmoji = true
       images = ["/favicon.ico"]
       # 出版者信息
       [params.page.seo.publisher]
-        name = "Leehow"
+        name = "GUTUN"
         logoUrl = "/logo.png"
 
   #  TypeIt 配置
