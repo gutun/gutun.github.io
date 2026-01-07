@@ -5,7 +5,7 @@ date: 2026-01-07T20:51:49+08:00
 slug: b18996f
 draft: false
 author:
-  name:GUTUN
+  name: GUTUN
   link:
   email:
   avatar:

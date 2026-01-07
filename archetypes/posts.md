@@ -5,7 +5,7 @@ date: {{ .Date }}
 slug: {{ substr .File.UniqueID 0 7 }}
 draft: false
 author:
-  name:GUTUN
+  name: GUTUN
   link:
   email:
   avatar:
