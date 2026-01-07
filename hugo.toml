@@ -280,7 +280,7 @@ enableEmoji = true
       # Gravatar 邮箱，用于优先在主页显示的头像
       gravatarEmail = ""
       # 主页显示头像的 URL
-      avatarURL = "/avatar.jpg"
+      avatarURL = ""
       #  头像菜单链接的 identifier
       avatarMenu = ""
       #  主页显示的网站标题（支持 HTML 格式）
@@ -387,12 +387,12 @@ enableEmoji = true
     TikTok = ""
     Phone = ""
     Email = ""
-    RSS = true
+    RSS = false
 
   #  文章页面配置
   [params.page]
     #  是否启用文章作者头像
-    authorAvatar = true
+    authorAvatar = false
     #  是否在主页隐藏一篇文章
     hiddenFromHomePage = false
     #  是否在搜索结果中隐藏一篇文章
