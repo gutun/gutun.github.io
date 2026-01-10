@@ -89,7 +89,7 @@ enableEmoji = true
 
 [params]
   # FixIt 0.2.15 | CHANGED FixIt theme version
-  version = "0.2.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
+  version = "0.2.15" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
   # 网站描述
   description = ""
   # 网站关键词
@@ -461,11 +461,11 @@ enableEmoji = true
     [params.page.math]
       enable = true
       # 默认行内定界符是 $ ... $ 和 \( ... \)
-      inlineLeftDelimiter = ""
-      inlineRightDelimiter = ""
+      # inlineLeftDelimiter = ""
+      # inlineRightDelimiter = ""
       # 默认块定界符是 $$ ... $$, \[ ... \],  \begin{equation} ... \end{equation} 和一些其它的函数
-      blockLeftDelimiter = ""
-      blockRightDelimiter = ""
+      # blockLeftDelimiter = ""
+      # blockRightDelimiter = ""
       # KaTeX 插件 copy_tex
       copyTex = true
       # KaTeX 插件 mhchem
@@ -920,6 +920,13 @@ enableEmoji = true
     [markup.goldmark.renderer]
       # 是否在文档中直接使用 HTML 标签
       unsafe = true
+    # 让数学定界符原样透传（FixIt/KaTeX/MathJax 需要）
+    [markup.goldmark.extensions.passthrough]
+      enable = true
+    [markup.goldmark.extensions.passthrough.delimiters]
+      block = [['\\[', '\\]'], ['$$', '$$']]
+      inline = [['\\(', '\\)'], ['$', '$']]
+
   # Table Of Contents settings
   [markup.tableOfContents]
     startLevel = 2
