@@ -15,9 +15,10 @@ license:
 comment: false
 weight: 0
 tags:
-  - draft
+  - 数学
+  - 过去
 categories:
-  - draft
+  - 数学
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false
