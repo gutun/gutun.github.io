@@ -154,7 +154,7 @@ repost:
 
 ### [SCP-CN-4000](https://scp-wiki-cn.wikidot.com/scp-cn-4000) 宇宙尽头的小屋
 
-及其优秀的梦核作品。
+极其优秀的梦核作品。
 
 ### [SCP-2614](https://scp-wiki-cn.wikidot.com/scp-2614) 剧中剧中剧
 
