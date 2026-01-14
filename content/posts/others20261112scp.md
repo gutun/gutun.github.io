@@ -174,3 +174,7 @@ repost:
 ### [SCP-2719](https://scp-wiki-cn.wikidot.com/scp-2719) 内部
 
 最早看到的时候十分惊艳。现在回过头来看本文加上解谜感觉没那个惊艳了，但是这种抽象概念的我也喜欢。
+
+### [SCP-CN-1614](https://scp-wiki-cn.wikidot.com/scp-cn-1614) 空置幻想
+
+找了很久，没想到就在精品里。搭配[SCP-CN-1615](https://scp-wiki-cn.wikidot.com/scp-cn-1615)一起看，感觉作者在探讨什么，但是又有些模糊，主观、客观，我现在依然认为，客观世界可以是不存在的，在我目前这个阶段，我暂且将其判定为不存在的。
