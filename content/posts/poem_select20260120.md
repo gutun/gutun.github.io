@@ -46,7 +46,7 @@ I offer you the loyalty of a man who has never been loyal.
 I offer you that kernel of myself that I have saved, somehow—the central heart that deals not in words, traffics④ not with dreams, and is untouched by time, by joy, by adversities.  
 I offer you the memory of a yellow rose seen at sunset, years before you were born.  
 I offer you explanations of yourself, theories about yourself, authentic and surprising news of yourself.  
-I can give you my loneliness, my darkness, the hunger of my heart; I am trying to bribe⑤ you with uncertainty, with danger, with defeat.
+I can give you my loneliness, my darkness, the hunger of my heart; I am trying to bribe you with uncertainty, with danger, with defeat.
 
 **我用什么才能留住你？**  
 *博尔赫斯*  
