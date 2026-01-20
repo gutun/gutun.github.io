@@ -38,7 +38,7 @@ repost:
 <!--more-->
 **What Can I Hold You with?**  
 *Jorge Luis Borges*  
-I offer you lean① streets, desperate sunsets, the moon of the jagged suburbs.  
+I offer you lean streets, desperate sunsets, the moon of the jagged suburbs.  
 I offer you the bitterness of a man who has looked long and long at the lonely moon.  
 I offer you my ancestors, my dead men, the ghosts that living men have honoured in bronze: my father’s father killed in the frontier of Buenos Aires, two bullets through his lungs, bearded and dead, wrapped by his soldiers in the hide of a cow; my mother’s grandfather—just twentyfour—heading a charge of three hundred men in Peru, now ghosts on vanished horses.  
 I offer you whatever insight my books may hold, whatever manliness or humour my life.  
