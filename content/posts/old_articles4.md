@@ -18,7 +18,7 @@ tags:
   - 创作
   - 过去
 categories:
-  - 过去
+  - 创作
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false
