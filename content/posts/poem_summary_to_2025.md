@@ -19,6 +19,7 @@ tags:
   - 过去
 categories:
   - 诗
+  - 合集
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false
